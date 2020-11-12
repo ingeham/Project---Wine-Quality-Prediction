@@ -1,7 +1,7 @@
 # Project: Wine Quality Prediction
 
 Supervised classification of white wine quality using multiple machine learning algorithms.  
-Team Members: Camilla Andersson, Amalie Omholt Ellestad, Ingeborg Hamnes.
+*Team Members:* Camilla Andersson, Amalie Omholt Ellestad, Ingeborg Hamnes.
 
 ## Goal
 
