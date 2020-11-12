@@ -29,5 +29,5 @@ The dataset used in this project is the [USI’s Wine Quality Dataset](http://ar
 The best performing KNN model achieved an F1-score of 60.8%. In comparison,  SVM with SMOTE achieved an F1-score of 64.9%, while random forest with SMOTE achieved a score of 66.2%. Consequently, KNN had the poorest performance of the three methods. In fact, the best performing KNN performed worse than all seven SVM and random forest models. The differences in F1-scores can be explained by looking at the models’ confusion matrices. Although all models frequently fail to classify samples of the minority classes, random forest with SMOTE is clearly the best at predicting these samples. For instance, the weighted KNN only manages to classify 5 samples of the “bad” class correctly, compared to 14 for the random forest with SMOTE.
 
 ## Deliverables
-The project report shows the analysis of our results.
-The Wine-Quality-Prediction.ipynb shows the code of our project.
+The project report shows the analysis of our results. <br />
+The [Wine-Quality-Prediction.ipynb](https://github.com/ingeham/Project---Wine-Quality-Prediction/blob/main/Wine-Quality-Prediction.ipynb) shows the code of our project. 
