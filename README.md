@@ -20,7 +20,7 @@ This project requires Python and the following Python libraries installed:
 It also requires to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
 ### Code
-Template code is provided in the Wine-Quality-Prediction.ipynb notebook file. You will also need to download the winequality-white.csv dataset file, and change the path for importing the dataset in the code.
+Template code is provided in the [Wine-Quality-Prediction.ipynb](https://github.com/ingeham/Project---Wine-Quality-Prediction/blob/main/Wine-Quality-Prediction.ipynb) notebook file. You will also need to download the [winequality-white.csv](https://github.com/ingeham/Project---Wine-Quality-Prediction/blob/main/winequality-white.csv) dataset file, and change the path for importing the dataset in the code.
 
 ## Description of Data
 The dataset used in this project is the [USI’s Wine Quality Dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality?fbclid=IwAR27uuowpx_0cv3ms-J0oMG26JAc3YaGToyv_Il643NFmn-USlEJhNoE1_A). This dataset contains 4898 white wines described by 12 different features. 11 of these features are input variables based on physicochemical properties: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates and alcohol. The output feature is a quality score ranging from 0 and 10. For this project, this target is classified into three categories: good (>6), bad (<5), and average (5 and 6).
