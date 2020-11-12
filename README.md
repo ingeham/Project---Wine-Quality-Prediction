@@ -3,7 +3,7 @@
 Supervised classification of white wine quality using multiple machine learning algorithms.  
 *Team Members:* Camilla Andersson, Amalie Omholt Ellestad, Ingeborg Hamnes.
 
-## Goal
+## Motivation
 
 This project explores supervised classification models’ performances on imbalanced data. The methods utilized are *k-nearest neighbours (KNN), support vector machines (SVM)* and *random forests*. Applying various modifications to these methods, the project evaluates how much the standard classification models improve when predicting the quality of white wines. The performances are evaluated and compared based on the evaluation metrics, *accuracy, F1-score, AUC ROC* and *confusion matrices*.
 
